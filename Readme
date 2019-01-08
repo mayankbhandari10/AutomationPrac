@@ -1,0 +1,13 @@
+ This is the file tells about the technologies used in this automation framework.
+ 
+ Design Pattern: Page object model.
+ 
+ Technologies : TestNg, Maven, Selenium and java.
+ 
+ How to run:
+ 
+1) clone the project.
+2) import it into the eclipse.
+3) Now go to testng.xml and right click in it and click on run as testng suite. 
+
+future implematation:  datafactory, extent testNg reports.
