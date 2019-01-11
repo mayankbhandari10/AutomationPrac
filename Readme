@@ -1,4 +1,4 @@
- This is the file tells about the technologies used in this automation framework.
+ This is the file which tells about the technologies used in this automation framework.
  
  Design Pattern: Page object model.
  
@@ -10,4 +10,18 @@
 2) import it into the eclipse.
 3) Now go to testng.xml and right click in it and click on run as testng suite. 
 
-future implematation:  datafactory, extent testNg reports.
+
+Project Structure:
+
+src/main/java:
+qa.base: This is package which is parent for all the class. 
+qa.config: There is a property file in this package, where i have mentioned the browser and login credentials.
+qa.genrics: I have created the static methods in this package.
+  
+  
+src/test/java:  
+
+This is the test class for the test cases.  
+
+
+  future implematation:  datafactory, extent testNg reports.
